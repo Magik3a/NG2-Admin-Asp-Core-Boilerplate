@@ -1,5 +1,5 @@
-# MultiAPI
-Multi API Admin panel developed on ASP.NET Boilerplate, Bootstrap 4, and Angular2 (typescript). For frond-end theme is used ng2 admin theme. 
+# NG2 Admin asp.net Core Boilerplate
+NG2 Admin asp.net Core Boilerplate Admin panel developed on ASP.NET Boilerplate, Bootstrap 4, and Angular2 (typescript). For frond-end theme is used ng2 admin theme. 
 
 Admin template made with :heart:  by [Akveo team](http://akveo.com/). 
 
