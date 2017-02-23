@@ -13,7 +13,7 @@ Admin template made with :heart:  by [Akveo team](http://akveo.com/).
 ASP.NET Boilerplate (Module zero), Angular 2 (TypeScript), Bootstrap 4, Webpack and lots of awesome modules and plugins
 
 
-## Features
+## Features 
 * ASP.NET Boilerplate
 * TypeScript
 * Webpack
